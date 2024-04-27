@@ -1,12 +1,23 @@
-## Hi there 👋
+# Hey, There! :wave:
 
-<!--
+![Mud's org banner](assets/banner.svg)
 
-**Here are some ideas to get you started:**
+Welcome to Mud's organisation page on GitHub where we love to do open-source experiments.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our key areas of focus includes,
+- :zap: Blazing fast software
+- :chart: Driving value proposition
+- :gear: Innovative engineering
+- :handshake: Give back to the community
+
+Hold a tab on our [website](https://mudtech.pages.dev) for awesome announcements.
+
+## Mud Public Repository Disclosure
+The content within these repositories, including code, has been generously provided by **Mud** under the associated open source software license. It’s important to note the following:
+
+- **Source of Code:** Mud developers created this code as an open source project, not as a Mud product.
+- **No Obligation:** Mud is under no obligation to provide enhancements, updates, or ongoing support for this code.
+- **Quality and Security:** Mud makes no assertions regarding the level of quality or security of this code.
+- **Maintenance:** Going forward, Mud will not be actively maintaining this code.
+
+Thank you for your understanding and for being part of the open source community! :star2: 
