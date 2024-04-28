@@ -1,6 +1,10 @@
 # Hey, There! :wave:
 
-![Mud's org banner](assets/banner.svg)
+<p align="center">
+  <a href="#">
+    <img height="200" src="assets/banner.svg">
+  </a>
+</p>
 
 Welcome to Mud's organisation page on GitHub where we love to do open-source experiments.
 
